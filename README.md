@@ -8,3 +8,5 @@ Antes de usar asegurarse de tener instalado Node.js, luego ejecutar el instalar_
 Es sencillo solo con ejecutar instalar.bat debería de funcionar :D  
 
 Puedes ver el video dentro de la carpeta cosmetics
+
+![image](https://i.ibb.co/67Dzy8fq/2025-03-20-01-12-00.gif)
