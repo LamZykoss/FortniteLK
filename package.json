@@ -1,0 +1,17 @@
+{
+  "name": "forniteleaker",
+  "version": "1.0.0",
+  "description": "Programa de consola que genera imagen de los últimos cosméticos de fortnite (rescatados de fortnite-api.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LamZykoss",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "canvas": "^3.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
