@@ -1,5 +1,6 @@
 
 # Fornite leakear
+Programa de consola desarrollado con el fin de obtener las imagenes de los últimos cosméticos añadidos a los archivos de Fornite, gracias a [FORNITE-API](https://dash.fortnite-api.com/)
 
 ## Instalar librerias
 Antes de usar asegurarse de tener instalado Node.js, luego ejecutar el instalar_paquetes.bat
